@@ -1,0 +1,11 @@
+{
+  "name": "curso-nodejs-mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/emerson-acacio-fs/curso-nodejs-mongo.git",
+  "author": "emerson_acacio@lccv.ufal.br <emerson_acacio@lccv.ufal.br>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.2.7"
+  }
+}
